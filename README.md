@@ -1,6 +1,5 @@
-# flutter_application_1
+# Jokenpô
 
-A new Flutter project.
 
 ## Getting Started
 
